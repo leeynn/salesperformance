@@ -1,0 +1,40 @@
+{
+    "login": {
+        "title": "管理者ログイン",
+        "userName": "ユーザー名",
+        "password": "パスワード",
+        "language": "言語選択",
+        "signIn": "サインイン",
+        "userNameNotNull": "ユーザー名が必要",
+        "passwordNotNull": "パスワードが必要",
+        "signInSuccess": "登録成功"
+    },
+    "language": {
+        "setting": "設定",
+        "languageSettings": "言語設定: ",
+        "jp": "日本語",
+        "en": "英語"
+    },
+    "header": {
+        "foldAside": "サイドバーを非表示",
+        "unFoldAside": "サイドバーを表示",
+        "setUp": "設定",
+        "help": "ヘルプ",
+        "blogAddress": "ブログ",
+        "codeAddress": "ソース",
+        "userSetUp": "ユーザー設定",
+        "updatePassword": "パスワード変更",
+        "logOut": "ログアウト"
+    },
+    "aside": {
+        "adminCenter": "営業実績",
+        "admin": "営実",
+        "homePage": "ポータル"
+    },
+	"tab": {
+	    "closeCurrentTabs": "当タブを閉じる",
+	    "closeOtherTabs": "他のタブを閉じる",
+	    "closeAllTabs": "すべてのタブを閉じる",
+	    "refreshCurrentTabs": "現在のタブを更新します"
+	}
+}
